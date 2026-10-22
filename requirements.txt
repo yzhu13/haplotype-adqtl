@@ -1,0 +1,13 @@
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+statsmodels>=0.14
+matplotlib>=3.8
+scikit-learn>=1.3
+requests>=2.31
+python-dotenv>=1.0
+remotezip>=0.12
+pyliftover>=0.4
+pyfaidx>=0.8
+# AlphaGenome steps only (p0_03, p0_08b-f, p1_04b, p1_09):
+# alphagenome>=0.6

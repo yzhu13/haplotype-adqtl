@@ -1,0 +1,435 @@
+variant_kgpID	set	strict_hit	strict_noneur	locus_hit	locus_noneur	traits
+22:42501861:G:A	adqtl	False	False	True	True	apolipoprotein A 1 measurement;gut microbiome measurement, breastfeeding duration;gut microbiome measurement, tobacco smoke exposure measurement;level of ceramide;platelet component distribution width
+22:43014229:T:C	adqtl	True	True	True	True	Alzheimer disease, family history of Alzheimer’s disease;gut microbiome measurement, environmental exposure measurement;hematological measurement;immature platelet count;immature platelet measurement
+22:43187592:T:C	adqtl	True	False	True	True	amygdala volume;body height;body shape measurement;bone tissue density;coronary artery disorder
+22:45333097:G:C	adqtl	True	True	True	True	17-beta-hydroxysteroid dehydrogenase 14 measurement;X-25790 measurement;alpha-fetoprotein level;ankylosing spondylitis, psoriasis, ulcerative colitis, Crohn disease, sclerosing cholangitis;aortic stenosis
+22:46762282:G:A	adqtl	False	False	True	True	BMI-adjusted waist-hip ratio;abdominal adipose tissue measurement;body height;brain attribute;brain physiology trait, language measurement
+1:1680672:C:T	adqtl	False	False	True	True	body fat percentage;body height;body mass index;body shape measurement;body weight
+1:16958003:T:C	adqtl	True	False	True	True	Abnormality of the skeletal system;BMI-adjusted hip circumference;BMI-adjusted waist circumference;BMI-adjusted waist circumference, physical activity measurement;BMI-adjusted waist-hip ratio
+1:19239802:T:C	adqtl	False	False	True	True	COVID-19;alkaline phosphatase measurement;blood protein amount;body height;gut microbiome measurement, breastfeeding duration
+1:19882976:A:C	adqtl	False	False	True	True	ankylosing spondylitis, psoriasis, ulcerative colitis, Crohn disease, sclerosing cholangitis;clonal hematopoiesis mutation measurement;free cholesterol measurement;inflammatory bowel disease;inflammatory bowel disease, rheumatoid arthritis
+1:22025615:C:T	adqtl	False	False	True	True	BMI-adjusted hip circumference;COVID-19;CPA1/CPB1 protein level ratio in blood;CPA1/PRSS2 protein level ratio in blood;age at first birth measurement
+1:38988113:G:A	adqtl	True	True	True	True	aging;atrial fibrillation;eosinophil count;gut microbiome measurement, breastfeeding duration;hematological measurement
+1:54716627:T:A	adqtl	False	False	True	True	adolescent idiopathic scoliosis;blood protein amount;bone tissue density;systolic blood pressure, sleep duration trait
+1:85062323:C:A	adqtl	True	False	True	False	hair color;strand of hair color
+1:109657738:T:C	adqtl	True	False	True	True	3,7-dimethylurate measurement;C-reactive protein measurement;CD70 antigen measurement;HDL cholesterol change measurement;IGF-1 measurement
+1:109675302:G:A	adqtl	False	False	True	True	3,7-dimethylurate measurement;CD70 antigen measurement;HDL cholesterol change measurement;IGF-1 measurement;LDL particle size
+1:120450316:G:T	adqtl	False	False	True	False	appendicular lean mass;level of lysophosphatidic acid phosphatase type 6 in blood serum;regenerating islet-derived protein 4 measurement
+1:147338870:G:A	adqtl	True	True	True	True	HIV viral set point measurement;body height;body weight;complement factor D measurement;neutrophil count
+1:150817485:A:T	adqtl	True	True	True	True	JT interval;aspartate aminotransferase measurement;atrial fibrillation;bilirubin measurement;blood protein amount
+1:150800137:T:C	adqtl	True	True	True	True	ACVRL1/SCARB2 protein level ratio in blood;HbA1c measurement;JT interval;amount of iron in brain;apolipoprotein A 1 measurement
+1:153627648:T:C	adqtl	False	False	True	True	HPCAL1/S100A4 protein level ratio in blood;blood donor;body height;educational attainment;gut microbiome measurement, tobacco smoke exposure measurement
+1:206469377:A:T	adqtl	True	True	True	True	Dupuytren Contracture;asthma;autoimmune thyroid disease;blood protein amount;body height
+1:220063279:T:C	adqtl	False	False	True	True	Alzheimer disease, family history of Alzheimer’s disease;glomerular filtration rate;reticulocyte count
+1:220695285:A:G	adqtl	False	False	True	True	body height;glioma pathogenesis-related protein 1 measurement;gut microbiome measurement, allergen exposure measurement
+1:248444054:A:G	adqtl	False	False	True	True	exostosis;reticulocyte amount
+1:248482015:G:T	adqtl	False	False	True	True	exostosis;protein measurement;reticulocyte amount
+1:248482015:G:T	adqtl	False	False	True	True	exostosis;protein measurement;reticulocyte amount
+1:248482015:G:T	adqtl	False	False	True	True	exostosis;protein measurement;reticulocyte amount
+1:228109044:C:T	adqtl	False	False	True	True	adolescent idiopathic scoliosis;cerebral cortex area attribute;neuroimaging measurement;protein measurement
+10:13288402:T:C	adqtl	False	False	True	True	Abdominal symptom;free androgen index;glucose measurement;gut microbiome measurement, breastfeeding duration;sex hormone-binding globulin measurement
+10:26385551:G:C	adqtl	False	False	True	True	APBB1IP/LSP1 protein level ratio in blood;APBB1IP/POLR2F protein level ratio in blood;adolescent idiopathic scoliosis;eosinophil count;leukocyte quantity
+10:43595992:G:T	adqtl	False	False	True	True	body height;bone tissue density;proto-oncogene tyrosine-protein kinase receptor Ret measurement;type 2 diabetes mellitus;uridine diphosphate measurement
+10:45932452:A:G	adqtl	False	False	True	True	ventricular septal defect
+10:48659102:A:G	adqtl	True	False	True	False	amount of iron in brain;aortic measurement;free cholesterol measurement;glioma pathogenesis-related protein 1 measurement;hip geometry
+10:69465230:G:T	adqtl	False	False	True	True	CD46/TIMP1 protein level ratio in blood;CD46/TNFRSF14 protein level ratio in blood;CD69/CLEC1B protein level ratio in blood;CD69/PLXNA4 protein level ratio in blood;HbA1c measurement
+10:79766241:C:T	adqtl	False	False	True	True	hemoglobin measurement
+10:93707274:A:C	adqtl	False	False	True	True	DNA methylation;N6,N6-dimethyllysine measurement;cerebrospinal fluid composition attribute, beta-amyloid 1-42 measurement;educational attainment;metabolite measurement
+10:125786088:C:T	adqtl	False	False	True	True	Alzheimer disease, family history of Alzheimer’s disease;blood protein amount;erythrocyte volume;glioma pathogenesis-related protein 1 measurement;neuroimaging measurement
+10:133416388:A:T	adqtl	False	False	True	True	(N(1) + N(8))-acetylspermidine measurement;1,3-dimethylurate measurement;DNA methylation;N-acetyl-isoputreanine measurement;X-03056--N-[3- 2-Oxopyrrolidin-1-yl propyl]acetamide measurement
+11:323837:C:T	adqtl	True	False	True	True	CMRF35-like molecule 1 measurement;FEV/FVC ratio;MANSC domain-containing protein 1 measurement;Thyroid preparation use measurement;alkaline phosphatase measurement
+11:324170:A:G	adqtl	True	False	True	True	CMRF35-like molecule 1 measurement;FEV/FVC ratio;MANSC domain-containing protein 1 measurement;Thyroid preparation use measurement;alkaline phosphatase measurement
+11:554798:T:C	adqtl	True	False	True	True	Abnormality of refraction;Thyroid stimulating hormone level;amount of iron in brain;body mass index;cadherin-related family member 5 measurement
+11:554798:T:C	adqtl	True	False	True	True	Abnormality of refraction;Thyroid stimulating hormone level;amount of iron in brain;body mass index;cadherin-related family member 5 measurement
+11:692908:T:C	adqtl	True	False	True	True	Alzheimer disease, family history of Alzheimer’s disease;BMI-adjusted waist-hip ratio;body height;cadherin-2 measurement;cadherin-related family member 5 measurement
+11:2301990:G:A	adqtl	True	True	True	True	B-cell chronic lymphocytic leukemia;Eczematoid dermatitis;Red cell distribution width;amount of sushi domain-containing protein 1 (human) in blood;anthropometric measurement
+11:2301990:G:A	adqtl	True	True	True	True	B-cell chronic lymphocytic leukemia;Eczematoid dermatitis;Red cell distribution width;amount of sushi domain-containing protein 1 (human) in blood;anthropometric measurement
+11:6926530:T:A	adqtl	True	False	True	False	glioma pathogenesis-related protein 1 measurement;level of NADH-cytochrome b5 reductase 2 in blood serum;protein measurement
+11:62562286:T:A	adqtl	False	False	True	True	Alzheimer disease, family history of Alzheimer’s disease;BMI-adjusted hip circumference;BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio;BMI-adjusted waist-hip ratio, physical activity measurement
+11:78574830:A:T	adqtl	False	False	True	True	color vision disorder;erythrocyte count;hematocrit;hemoglobin measurement;level of Mth938 domain-containing protein in blood
+11:65791795:A:G	adqtl	True	True	True	True	Abnormality of the skeletal system;Antihypertensive use measurement;BMI-adjusted hip circumference;BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio
+11:65791795:A:G	adqtl	True	True	True	True	Abnormality of the skeletal system;Antihypertensive use measurement;BMI-adjusted hip circumference;BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio
+11:108127399:G:A	adqtl	True	False	True	True	Progressive visual loss;Uterine leiomyoma;alpha-fetoprotein level;chromosome, telomeric region length;clonal hematopoiesis
+11:134095712:A:T	adqtl	False	False	True	True	JAM2/RGMB protein level ratio in blood;atrial fibrillation;body height;bone tissue density;cerebrospinal fluid composition attribute
+12:6443350:G:C	adqtl	True	False	True	True	CD27 antigen measurement;CD27/CD79B protein level ratio in blood;CD27/DLL1 protein level ratio in blood;CD27/ICAM3 protein level ratio in blood;CD27/NBL1 protein level ratio in blood
+12:9362151:G:A	adqtl	False	False	True	False	adolescent idiopathic scoliosis;blood protein amount;level of pregnancy zone protein in blood;preeclampsia, hypertension, pregnancy-induced;ruminococcaceae seropositivity
+12:9362151:G:A	adqtl	False	False	True	False	adolescent idiopathic scoliosis;blood protein amount;level of pregnancy zone protein in blood;preeclampsia, hypertension, pregnancy-induced;ruminococcaceae seropositivity
+12:9362151:G:A	adqtl	False	False	True	False	adolescent idiopathic scoliosis;blood protein amount;level of pregnancy zone protein in blood;preeclampsia, hypertension, pregnancy-induced;ruminococcaceae seropositivity
+12:9362151:G:A	adqtl	False	False	True	False	adolescent idiopathic scoliosis;blood protein amount;level of pregnancy zone protein in blood;preeclampsia, hypertension, pregnancy-induced;ruminococcaceae seropositivity
+12:10543698:C:T	adqtl	False	False	True	True	C-type lectin domain family 7 member A measurement;NKG2-D type II integral membrane protein amount;amount of natural killer cells antigen CD94 (human) in blood;dental caries, dentures;hematological measurement
+12:110381956:A:G	adqtl	True	True	True	True	QRS duration;QT interval;alcoholic liver disease;bipolar disorder, schizophrenia;body mass index
+14:23959884:A:C	adqtl	False	False	True	False	level of dehydrogenase/reductase SDR family member 4-like 2 in blood;metabolite measurement
+14:24431003:C:G	adqtl	True	False	True	True	BMI-adjusted waist circumference;C-reactive protein measurement;HDL particle size;IGF-1 measurement;Red cell distribution width
+14:24431003:C:G	adqtl	True	False	True	True	BMI-adjusted waist circumference;C-reactive protein measurement;HDL particle size;IGF-1 measurement;Red cell distribution width
+14:64952755:C:A	adqtl	False	False	True	True	N-glycan measurement;body height;body mass index;erythrocyte volume;level of alpha-(1,6)-fucosyltransferase in blood
+14:73563814:T:A	adqtl	False	False	True	True	(2 or 3)-decenoate (10:1n7 or n8) measurement;C36:3 phosphatidylserine plasmalogen measurement;X-11308 measurement;X-16935 measurement;X-17653 measurement
+14:73852083:C:G	adqtl	False	False	True	True	X-24309 measurement;anthropometric measurement;birth weight;body height;ectonucleoside triphosphate diphosphohydrolase 5 measurement
+14:74505305:A:T	adqtl	False	False	True	True	Abnormality of refraction;BMI-adjusted hip circumference;BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio;FEV/FVC ratio
+14:95684017:T:G	adqtl	False	False	True	True	Abnormality of refraction;CD22/TCL1A protein level ratio in blood;FCER2/TCL1A protein level ratio in blood;FCRL1/TCL1A protein level ratio in blood;PARP1/TCL1A protein level ratio in blood
+14:104754706:T:C	adqtl	False	False	True	True	Decreased HDL cholesterol concentration;HDL cholesterol change measurement;HDL cholesterol change measurement, physical activity;HDL particle size;Thyroid stimulating hormone level
+14:105530256:G:C	adqtl	False	False	True	True	CD40 measurement;FCRL5/LY96 protein level ratio in blood;IgG bisecting N-acetyl glucosamine measurement;IgG fucosylation measurement;IgG galactosylation measurement
+15:41356539:C:G	adqtl	False	False	True	True	COVID-19;JT interval;QT interval;basophil measurement;body height
+15:41552647:C:A	adqtl	True	False	True	True	BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio;CD58/TYRO3 protein level ratio in blood;Drugs used in diabetes use measurement;FEV/FVC ratio
+15:52109736:A:G	adqtl	False	False	True	True	body fat percentage;body mass index;bone tissue density;fat pad mass;glioma pathogenesis-related protein 1 measurement
+15:52109736:A:G	adqtl	False	False	True	True	body fat percentage;body mass index;bone tissue density;fat pad mass;glioma pathogenesis-related protein 1 measurement
+15:59724324:T:C	adqtl	True	True	True	True	hematological measurement;lymphocyte percentage of leukocytes;neutrophil percentage of leukocytes;platelet count;protein measurement
+15:67545070:C:T	adqtl	False	False	True	True	body height;body mass index;cerebellar volume measurement;fat pad mass;insomnia measurement
+15:82377956:A:G	adqtl	False	False	True	True	aortic stenosis;body height;intelligence
+15:82410282:G:T	adqtl	False	False	True	False	body height;intelligence
+15:89750545:A:C	adqtl	False	False	True	True	ANPEP/DPP4 protein level ratio in blood;UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 8 measurement;aspartate aminotransferase measurement;blood protein amount;body height
+15:99099410:G:A	adqtl	False	False	True	True	FEV/FVC ratio;body height;visual perception quality
+15:99860384:T:C	adqtl	True	True	True	True	body height
+15:100927195:G:A	adqtl	True	True	True	True	body height;gut microbiome measurement, environmental exposure measurement;level of serum globulin type protein;lifestyle measurement, maximum cigarettes per day measurement;platelet glycoprotein 4 level
+16:1826948:G:C	adqtl	True	True	True	True	ARG1/HAGH protein level ratio in blood;BLVRB/HAGH protein level ratio in blood;C-reactive protein measurement;CA2/HAGH protein level ratio in blood;HAGH/HMBS protein level ratio in blood
+16:2936322:T:C	adqtl	False	False	True	True	balding measurement;bile duct disorder;body height;bone tissue density;brain-specific serine protease 4 measurement
+16:12545993:C:T	adqtl	False	False	True	True	adolescent idiopathic scoliosis;educational attainment;high density lipoprotein cholesterol measurement;level of ceramide;level of serine/threonine-protein phosphatase CPPED1 in blood
+16:14986485:C:T	adqtl	False	False	True	True	1,2-dilinoleoyl-GPC (18:2/18:2) measurement;1-dihomo-linoleoyl-GPC (20:2) measurement;1-linoleoyl-GPC (18:2) measurement;1-margaroyl-2-linoleoyl-GPC (17:0/18:2) measurement;1-stearoyl-2-dihomo-linolenoyl-GPC (18:0/20:3n3 or 6) measurement
+16:16227375:A:T	adqtl	True	False	True	True	blood phosphate measurement;blood protein amount;body height;hepatitis A virus cellular receptor 2 measurement;level of nodal modulator 1 in blood
+16:16227375:A:T	adqtl	True	False	True	True	blood phosphate measurement;blood protein amount;body height;hepatitis A virus cellular receptor 2 measurement;level of nodal modulator 1 in blood
+16:18529189:T:C	adqtl	False	False	True	False	childhood trauma measurement, alcohol consumption quality
+16:18520695:T:C	adqtl	False	False	True	False	childhood trauma measurement, alcohol consumption quality
+16:23681084:A:G	adqtl	False	False	True	True	breast carcinoma;erythrocyte volume;level of ceramide;mean reticulocyte volume
+16:71633777:C:T	adqtl	False	False	True	True	HMG CoA reductase inhibitor use measurement;alcohol consumption quality;alkaline phosphatase measurement;apolipoprotein B measurement;appendicular lean mass
+16:70794366:C:T	adqtl	False	False	True	True	blood protein amount;body height;body mass index;body shape measurement;bone tissue density
+16:88700565:G:C	adqtl	True	False	True	True	Anxiety;BMI-adjusted hip circumference;BMI-adjusted waist circumference;HbA1c measurement;Red cell distribution width
+16:89698141:G:A	adqtl	True	True	True	True	Agents acting on the renin-angiotensin system use measurement;BMI-adjusted hip circumference;BMI-adjusted waist circumference;Beta blocking agent use measurement;C-reactive protein measurement
+16:89624734:T:C	adqtl	True	True	True	True	Agents acting on the renin-angiotensin system use measurement;Antihypertensive use measurement;BMI-adjusted hip circumference;BMI-adjusted waist circumference;Beta blocking agent use measurement
+17:216884:G:A	adqtl	False	False	True	True	Pancytopenia;chromosome, telomeric region length;glomerulonephritis;glucose-dependent insulinotropic peptide measurement;level of double C2-like domain-containing protein beta in blood
+17:3605864:G:C	adqtl	False	False	True	True	eosinophil measurement;level of sedoheptulokinase in blood;serum alanine aminotransferase amount;taste liking measurement;tax1-binding protein 3 measurement
+17:14351680:G:C	adqtl	False	False	True	True	blood glucose amount;brain attribute;cerebral cortex area attribute;cerebral cortex area attribute, neuroimaging measurement;free cholesterol measurement
+17:14351680:G:C	adqtl	False	False	True	True	blood glucose amount;brain attribute;cerebral cortex area attribute;cerebral cortex area attribute, neuroimaging measurement;free cholesterol measurement
+17:35537811:T:A	adqtl	True	False	True	True	40S ribosomal protein S4, X isoform measurement;40s ribosomal protein S3 measurement;APEX1/SRP14 protein level ratio in blood;C-C motif chemokine 14 measurement;C-C motif chemokine 15 level
+17:35537811:T:A	adqtl	True	False	True	True	40S ribosomal protein S4, X isoform measurement;40s ribosomal protein S3 measurement;APEX1/SRP14 protein level ratio in blood;C-C motif chemokine 14 measurement;C-C motif chemokine 15 level
+17:35537811:T:A	adqtl	True	False	True	True	40S ribosomal protein S4, X isoform measurement;40s ribosomal protein S3 measurement;APEX1/SRP14 protein level ratio in blood;C-C motif chemokine 14 measurement;C-C motif chemokine 15 level
+17:35537811:T:A	adqtl	True	False	True	True	40S ribosomal protein S4, X isoform measurement;40s ribosomal protein S3 measurement;APEX1/SRP14 protein level ratio in blood;C-C motif chemokine 14 measurement;C-C motif chemokine 15 level
+17:35537811:T:A	adqtl	True	False	True	True	40S ribosomal protein S4, X isoform measurement;40s ribosomal protein S3 measurement;APEX1/SRP14 protein level ratio in blood;C-C motif chemokine 14 measurement;C-C motif chemokine 15 level
+17:35537811:T:A	adqtl	True	False	True	True	40S ribosomal protein S4, X isoform measurement;40s ribosomal protein S3 measurement;APEX1/SRP14 protein level ratio in blood;C-C motif chemokine 14 measurement;C-C motif chemokine 15 level
+17:35537811:T:A	adqtl	True	False	True	True	40S ribosomal protein S4, X isoform measurement;40s ribosomal protein S3 measurement;APEX1/SRP14 protein level ratio in blood;C-C motif chemokine 14 measurement;C-C motif chemokine 15 level
+17:35537811:T:A	adqtl	True	False	True	True	40S ribosomal protein S4, X isoform measurement;40s ribosomal protein S3 measurement;APEX1/SRP14 protein level ratio in blood;C-C motif chemokine 14 measurement;C-C motif chemokine 15 level
+17:35537811:T:A	adqtl	True	False	True	True	40S ribosomal protein S4, X isoform measurement;40s ribosomal protein S3 measurement;APEX1/SRP14 protein level ratio in blood;C-C motif chemokine 14 measurement;C-C motif chemokine 15 level
+17:35537811:T:A	adqtl	True	False	True	True	40S ribosomal protein S4, X isoform measurement;40s ribosomal protein S3 measurement;APEX1/SRP14 protein level ratio in blood;C-C motif chemokine 14 measurement;C-C motif chemokine 15 level
+17:46496507:T:G	adqtl	True	True	True	True	BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio;body fat percentage;body height;body weight
+17:46496507:T:G	adqtl	True	True	True	True	BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio;body fat percentage;body height;body weight
+17:46496637:T:A	adqtl	True	True	True	True	BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio;body fat percentage;body height;body weight
+17:50508373:C:T	adqtl	False	False	True	True	BMI-adjusted hip circumference;Thyroid stimulating hormone level;WAP, Kazal, immunoglobulin, Kunitz and NTR domain-containing protein 2 measurement;blood protein amount;body height
+17:75877575:C:T	adqtl	True	True	True	True	HbA1c measurement;IGF-1 measurement;Red cell distribution width;X-12822 measurement;X-16935 measurement
+18:112689:T:G	adqtl	False	False	True	True	appendicular lean mass;body height;brain attribute;collectin-12 measurement;high density lipoprotein cholesterol measurement
+18:3246393:C:G	adqtl	False	False	True	True	QRS duration;adolescent idiopathic scoliosis;body height;diastolic blood pressure, systolic blood pressure;heart rate
+18:12991394:T:C	adqtl	True	False	True	True	C-reactive protein measurement;anthropometric measurement;body height;cognitive function measurement;educational attainment
+18:12991394:T:C	adqtl	True	False	True	True	C-reactive protein measurement;anthropometric measurement;body height;cognitive function measurement;educational attainment
+18:36130647:T:C	adqtl	False	False	True	True	6-oxopiperidine-2-carboxylate measurement;7-methylguanine measurement;carcinoma of esophagus, survival time, squamous cell carcinoma;serum metabolite level
+19:990819:G:A	adqtl	False	False	True	True	Alzheimer disease;Alzheimer disease, APOE carrier status;Alzheimer disease, dementia, family history of Alzheimer’s disease;Alzheimer disease, family history of Alzheimer’s disease;Red cell distribution width
+19:1055719:C:T	adqtl	True	True	True	True	Alzheimer disease;Alzheimer disease, dementia, family history of Alzheimer’s disease;Alzheimer disease, educational attainment;Alzheimer disease, family history of Alzheimer’s disease;Alzheimer disease, polygenic risk score
+19:874658:G:A	adqtl	False	False	True	True	C-C motif chemokine 1 measurement;C-type lectin domain family 4 member D measurement;CCAAT/enhancer-binding protein beta measurement;DNA repair protein RAD51 homolog 1 amount;DNA-binding protein SATB2 measurement
+19:3170949:A:G	adqtl	False	False	True	True	asthma;atopic asthma;autoimmune thyroid disease;basophil count, eosinophil count;basophil percentage of leukocytes
+19:3557891:A:G	adqtl	False	False	True	True	Abnormality of skin pigmentation;CD83 antigen measurement;CD83/TNFRSF4 protein level ratio in blood;Crohn disease;Red cell distribution width
+19:4180693:T:G	adqtl	False	False	True	True	C-reactive protein measurement;aging;anthropometric measurement;apolipoprotein A 1 measurement;blood phosphate measurement
+19:6731046:T:C	adqtl	False	False	True	True	C3a anaphylatoxin measurement;CD70 antigen measurement;DNA-directed RNA polymerases I and III subunit RPAC1 measurement;ER membrane protein complex subunit 4 measurement;OCIA domain-containing protein 1 measurement
+19:17237270:G:A	adqtl	True	False	True	True	COVID-19;amount of unconventional myosin-IXb (human) in blood;body fat percentage;body height;breast cancer
+19:19207349:A:G	adqtl	False	False	True	True	Abnormality of the skeletal system;BCAN/NCAN protein level ratio in blood;C-reactive protein measurement;HMG CoA reductase inhibitor use measurement;Hypercholesterolemia
+19:49453017:C:G	adqtl	False	False	True	True	IGF-1 measurement;apolipoprotein B measurement;aspartate aminotransferase measurement;aspartate aminotransferase to alanine aminotransferase ratio;blood protein amount
+19:52780933:A:G	adqtl	True	False	True	True	cholesteryl esters in IDL measurement;free cholesterol measurement;gut microbiome measurement, allergen exposure measurement;phospholipid level
+19:54173409:C:G	adqtl	True	True	True	True	1-arachidonoyl-GPI (20:4) measurement;1-arachidonoylglycerophosphoinositol measurement;1-linoleoyl-GPI (18:2) measurement;1-oleoyl-GPI (18:1) measurement;1-palmitoleoyl-GPI (16:1) measurement
+19:57853825:G:A	adqtl	False	False	True	True	atrial fibrillation;body mass index;cochlin measurement;hematological measurement;high density lipoprotein cholesterol measurement
+2:74120539:T:G	adqtl	True	False	True	True	Alzheimer disease;alcohol consumption quality;body height;eosinophil count;hematological measurement
+2:74529049:G:C	adqtl	True	True	True	True	body height;body weight;chronic atrophic gastritis;hematological measurement;platelet count
+2:74886530:C:T	adqtl	False	False	True	False	taste liking measurement
+2:90083084:G:T	adqtl	False	False	True	True	age at onset, Myopia;blood protein amount;body height;bone tissue density;protein measurement
+2:189272667:A:T	adqtl	False	False	True	True	body height;cerebral cortex area attribute;cortical thickness, neuroimaging measurement;free cholesterol measurement;hemorrhoid
+2:201774147:T:C	adqtl	True	False	True	False	level of disintegrin and metalloproteinase domain-containing protein 8 in blood;level of tumor necrosis factor receptor superfamily member 10C in blood
+2:190319749:A:G	adqtl	True	True	True	True	3-hydroxyhexanoate measurement;ABHD14B/INPP1 protein level ratio in blood;CASP8/INPP1 protein level ratio in blood;CNPY4/INPP1 protein level ratio in blood;DRG2/INPP1 protein level ratio in blood
+2:207659476:A:G	adqtl	False	False	True	True	body height;diastolic blood pressure;erythrocyte volume;free androgen index;gamma-crystallin D measurement
+2:240027895:G:A	adqtl	False	False	True	True	DNA methylation;blood glucose amount
+2:237779250:G:A	adqtl	False	False	True	True	apolipoprotein A 1 measurement;cesarean section, Self-injurious behavior;diastolic blood pressure, systolic blood pressure;glomerular filtration rate;high density lipoprotein cholesterol measurement
+20:33775731:G:T	adqtl	True	False	True	True	BMI-adjusted hip circumference;BPI fold-containing family B member 1 measurement;anti-GAD65 autoimmune neurological syndromes;beta-crystallin B2 measurement;body height
+20:63641230:G:T	adqtl	True	True	True	True	B-cell acute lymphoblastic leukemia, inflammatory bowel disease;Eczematoid dermatitis;Eczematoid dermatitis, allergic rhinitis;Graves disease;Uterine leiomyoma
+21:25623663:G:A	adqtl	False	False	False	False	
+21:38806138:A:G	adqtl	False	False	True	True	amount of WAP four-disulfide core domain protein 12 (human) in blood;body mass index;bone tissue density;central corneal thickness;corneal resistance factor
+21:44092213:G:A	adqtl	True	False	True	True	1,4-dihydro-1-Methyl-4-oxo-3-pyridinecarboxamide measurement;IgA glomerulonephritis;bone tissue density;cystatin B measurement;gut microbiome measurement, breastfeeding duration
+21:44072497:A:G	adqtl	False	False	True	True	1,4-dihydro-1-Methyl-4-oxo-3-pyridinecarboxamide measurement;cystatin B measurement;gut microbiome measurement, breastfeeding duration;icos ligand measurement;inflammatory bowel disease
+3:45425405:A:G	adqtl	False	False	True	False	age at first birth measurement;body height;body mass index;body mass index, COVID-19;protein measurement
+3:52652700:T:A	adqtl	True	False	True	True	AP-4 complex subunit mu-1 measurement;Abnormality of the skeletal system;BMI-adjusted adiponectin measurement;BMI-adjusted waist circumference;BMI-adjusted waist circumference, physical activity measurement
+3:63996406:G:A	adqtl	True	True	True	True	Drugs used in diabetes use measurement;Red cell distribution width;blood glucose amount;breast carcinoma;cortical thickness, neuroimaging measurement
+3:130101894:T:C	adqtl	False	False	True	True	Anxiety;COVID-19;breast benign neoplasm;hematological measurement
+3:175233966:T:C	adqtl	False	False	True	True	kidney transplant
+4:1363537:C:G	adqtl	True	True	True	True	BMI-adjusted waist-hip ratio;abdominal adipose tissue measurement;alpha-L-iduronidase measurement;appendicular lean mass;body height
+4:2508754:A:G	adqtl	False	False	True	True	Alzheimer disease, family history of Alzheimer’s disease;age at menarche;alpha-2-macroglobulin receptor-associated protein measurement;body mass index;free cholesterol measurement
+4:2508754:A:G	adqtl	False	False	True	True	Alzheimer disease, family history of Alzheimer’s disease;age at menarche;alpha-2-macroglobulin receptor-associated protein measurement;body mass index;free cholesterol measurement
+4:2813036:C:T	adqtl	False	False	True	True	AARSD1/PIK3AP1 protein level ratio in blood;FEV/FVC ratio;Hodgkins lymphoma;PIK3AP1/PSMG3 protein level ratio in blood;SH3 domain-binding protein 2 measurement
+4:26906241:C:G	adqtl	False	False	True	True	body mass index;body weight;calcium measurement
+4:48156507:G:A	adqtl	False	False	True	True	Uterine leiomyoma;hematological measurement;level of ceramide;multiple sclerosis;platelet component distribution width
+4:83224384:A:T	adqtl	False	False	True	True	Fc receptor-like protein 2 measurement;blood protein amount;granulocyte percentage of myeloid white cells;hematological measurement;leukocyte quantity
+4:83224384:A:T	adqtl	False	False	True	True	Fc receptor-like protein 2 measurement;blood protein amount;granulocyte percentage of myeloid white cells;hematological measurement;leukocyte quantity
+4:109433817:C:T	adqtl	False	False	True	True	body height
+4:184368244:A:G	adqtl	False	False	True	True	Antithrombotic agent use measurement;B-cell chronic lymphocytic leukemia;level of glycerophosphocholine cholinephosphodiesterase ENPP6 in blood;low density lipoprotein cholesterol measurement;total cholesterol measurement
+4:185164572:C:T	adqtl	False	False	False	False	
+4:188740596:C:T	adqtl	False	False	True	True	body height
+4:188740596:C:T	adqtl	False	False	True	True	body height
+5:14877365:A:G	adqtl	True	True	True	True	aortic stenosis;blood glucose amount;body height;cancer;citrate measurement
+5:21366704:T:C	adqtl	False	False	True	True	protein measurement
+5:34927006:A:C	adqtl	False	False	True	True	age at menarche;beta-aminoisobutyric acid measurement;bone tissue density;level of DnaJ homolog subfamily C member 21 in blood;poisoning, response to xenobiotic stimulus
+5:34927006:A:C	adqtl	False	False	True	True	age at menarche;beta-aminoisobutyric acid measurement;bone tissue density;level of DnaJ homolog subfamily C member 21 in blood;poisoning, response to xenobiotic stimulus
+5:36702762:C:A	adqtl	True	False	True	True	FEV/FVC ratio;body height;sexual dimorphism measurement
+5:70113089:G:C	adqtl	False	False	False	False	
+5:71325939:A:G	adqtl	True	True	True	True	C-C motif chemokine 24 measurement;GDNF family receptor alpha-2 measurement;Red cell distribution width;complement C1q tumor necrosis factor-related protein 5 measurement;ficolin-1 measurement
+5:82316660:G:A	adqtl	True	False	True	True	DNA methylation;carotid artery thickness;cognitive function measurement;cognitive function measurement, self reported educational attainment;delivery measurement, gut microbiome measurement
+5:147782912:G:A	adqtl	False	False	True	True	COVID-19, mortality;acute pancreatitis;alcoholic pancreatitis;blood protein amount;insulin measurement
+5:175966090:A:G	adqtl	False	False	True	False	body height
+5:178232623:C:A	adqtl	True	False	True	True	balding measurement;basal cell adhesion molecule amount;blood protein amount;body height;dental caries
+6:3027298:G:A	adqtl	False	False	True	True	blood protein amount;gut microbiome measurement, tobacco smoke exposure measurement;level of prenylcysteine oxidase-like in blood serum;level of pterin in blood;metabolite measurement
+6:10723216:A:C	adqtl	True	True	True	True	erythrocyte volume;free cholesterol measurement;mean corpuscular hemoglobin;mean corpuscular hemoglobin concentration;metabolite measurement
+6:26458297:C:G	adqtl	False	False	True	True	BMI-adjusted hip circumference;BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio;BTN2A1/EPHA1 protein level ratio in blood;BTN2A1/IFNGR1 protein level ratio in blood
+6:29875291:A:G	adqtl	True	False	True	True	BMI-adjusted hip circumference;BMI-adjusted waist-hip ratio;CD160/NCR1 protein level ratio in blood;CD22/FCER2 protein level ratio in blood;CD4 molecule amount
+6:31361315:A:C	adqtl	True	True	True	True	1-(1-enyl-stearoyl)-2-arachidonoyl-GPC (P-18:0/20:4) measurement;17-hydroxyprogesterone measurement;ACVRL1/TNFRSF9 protein level ratio in blood;Antithrombotic agent use measurement;B-cell receptor CD22 level
+6:30063568:T:C	adqtl	False	False	True	True	BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio;CRTAM/PDCD1 protein level ratio in blood;CRTAM/TNFRSF9 protein level ratio in blood;EFNA4/TNFRSF10A protein level ratio in blood
+6:32786314:C:T	adqtl	True	False	True	True	BMI-adjusted hip circumference;BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio;BTN2A1/CSF1 protein level ratio in blood;C-X-C motif chemokine 16 measurement
+6:42975041:A:G	adqtl	False	False	True	True	1-oleoyl-2-docosahexaenoyl-GPC (18:1/22:6) measurement;1-stearoyl-2-docosahexaenoyl-GPC (18:0/22:6) measurement;2,3-dihydroxy-5-methylthio-4-pentenoate (DMTPA) measurement;5-methylthioadenosine (MTA) measurement;Adenine measurement
+6:31276107:G:A	adqtl	True	True	True	True	ALCAM/CDH5 protein level ratio in blood;ALCAM/ICAM3 protein level ratio in blood;ANGPT1/CPXM1 protein level ratio in blood;ANXA11/NT5C3A protein level ratio in blood;Alzheimer disease, polygenic risk score
+6:85678170:G:T	adqtl	False	False	True	True	5'-nucleotidase measurement;body height;heel bone mineral density;level of carbonic anhydrase 14 in blood;neutrophil count
+6:106637066:G:A	adqtl	False	False	True	False	gut microbiome measurement;level of reticulon-4-interacting protein 1 in blood;protein measurement
+6:131075076:G:A	adqtl	True	True	True	True	BMI-adjusted hip circumference;appendicular lean mass;balding measurement;body height;body surface area
+6:140897923:C:T	adqtl	False	False	True	True	body height;glioma pathogenesis-related protein 1 measurement;health trait
+6:167113712:A:C	adqtl	True	False	True	True	ACPA-positive rheumatoid arthritis, rheumatoid arthritis, rheumatoid factor seropositivity measurement;B-cell acute lymphoblastic leukemia, Crohn disease;B-cell acute lymphoblastic leukemia, rheumatoid arthritis;C-C motif chemokine 20 measurement;C-type lectin domain family 4 member K amount
+7:933117:G:A	adqtl	False	False	True	True	C-reactive protein measurement;Crohn disease;Crohn disease, leprosy;PR interval;VLDL particle size
+7:2709535:T:C	adqtl	True	False	True	True	BMI-adjusted hip circumference;BMI-adjusted waist circumference;COVID-19;FEV/FVC ratio;anthropometric measurement
+7:6038745:A:C	adqtl	False	False	True	True	Red cell distribution width;alcohol use disorder measurement;endocarditis;erythrocyte volume;free cholesterol measurement
+7:30810596:C:G	adqtl	True	False	True	True	educational attainment;gut microbiome measurement, breastfeeding duration;heel bone mineral density, urate measurement;milk amount
+7:38352653:A:G	adqtl	False	False	True	False	free cholesterol measurement;heel bone mineral density
+7:38358329:A:G	adqtl	True	False	True	False	free cholesterol measurement
+7:38358963:A:G	adqtl	True	False	True	False	free cholesterol measurement
+7:64971340:T:C	adqtl	False	False	True	False	Alzheimer disease, polygenic risk score;protein measurement
+7:74893281:A:C	adqtl	False	False	True	True	C-C motif chemokine 24 measurement;amount of iron in brain;body fat percentage;body height;body mass index
+7:74936194:A:G	adqtl	True	False	True	True	C-C motif chemokine 24 measurement;amount of iron in brain;body fat percentage;body mass index;breast cancer, body mass index
+7:75369211:G:A	adqtl	False	False	True	True	aspartate aminotransferase measurement;body mass index;cholesterol to total lipids in large LDL percentage;cholesterol:total lipids ratio, high density lipoprotein cholesterol measurement;free cholesterol to total lipids in small HDL percentage
+7:74866376:A:G	adqtl	False	False	True	True	Red cell distribution width;amount of iron in brain;atrial fibrillation;body height;body mass index
+7:74866376:A:G	adqtl	False	False	True	True	Red cell distribution width;amount of iron in brain;atrial fibrillation;body height;body mass index
+7:102540026:C:T	adqtl	False	False	True	False	circadian rhythm
+7:102713561:C:A	adqtl	False	False	True	True	body mass index;breast cancer, chronotype measurement;chronotype measurement;type 2 diabetes mellitus
+7:130476747:A:G	adqtl	False	False	True	True	BMI-adjusted waist circumference;aspartate aminotransferase measurement;body height;carboxypeptidase A4 measurement;sialic acid-binding Ig-like lectin 9 amount
+7:140211329:G:A	adqtl	False	False	True	True	FEV/FVC ratio;aggressive behavior quality, ADHD symptom measurement;anthropometric measurement;balding measurement;body height
+7:141662893:A:T	adqtl	False	False	True	True	blood protein amount;mitochondrial heteroplasmy measurement;psoriasis;sensory perception of bitter taste;serum metabolite level
+7:143648389:A:T	adqtl	False	False	False	False	
+7:143580806:T:A	adqtl	False	False	False	False	
+7:143849637:A:T	adqtl	False	False	True	False	diet measurement
+7:150323437:C:T	adqtl	True	True	True	True	Abnormality of the skeletal system;blood protein amount;body height;chemerin measurement;galectin-3 measurement
+7:150328645:G:A	adqtl	False	False	True	True	Abnormality of the skeletal system;blood protein amount;body height;chemerin measurement;digestive system disorder
+7:149873604:A:C	adqtl	False	False	True	True	Alzheimer disease, family history of Alzheimer’s disease;body height;ventricular septal defect
+8:657180:G:A	adqtl	False	False	True	True	Hematochezia, response to radiation;educational attainment;erythrocyte count;hemoglobin measurement;protein measurement
+8:9733245:T:A	adqtl	False	False	True	True	BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio;age at first birth measurement;alkaline phosphatase measurement;asthma, endometriosis
+8:12567687:A:T	adqtl	False	False	False	False	
+8:143377159:C:T	adqtl	False	False	True	True	L-Histidine to Uric acid ratio;apolipoprotein A 1 measurement;atrial fibrillation;body height;high density lipoprotein cholesterol measurement
+9:67723415:G:T	adqtl	False	False	False	False	
+9:98119243:C:G	adqtl	False	False	True	True	basophil measurement;multiple sclerosis;pulse pressure measurement, alcohol drinking
+9:104748160:C:G	adqtl	False	False	True	True	3-hydroxy-2-ethylpropionate measurement;C-reactive protein measurement;apolipoprotein A 1 measurement;bone tissue density;cerebrospinal fluid composition attribute, 3-hydroxy-2-ethylpropionate measurement
+9:86099678:C:A	adqtl	False	False	True	True	Golgi membrane protein 1 measurement;blood protein amount;glioma pathogenesis-related protein 1 measurement;leukocyte quantity;level of leucine-rich repeat-containing protein 25 in blood
+19:58309084:A:G	control	False	False	True	True	C-C motif chemokine 18 measurement;body height;cysteine-rich secretory protein 2 measurement;cysteine-rich secretory protein 3 measurement;educational attainment
+4:78552886:C:A	control	True	False	True	True	ANXA3/SERPINB1 protein level ratio in blood;free cholesterol measurement;hematological measurement;level of annexin A3 in blood;rheumatoid arthritis
+1:202967673:G:C	control	False	False	True	True	aspartate aminotransferase measurement;body height;chitinase-3-like protein 1 measurement;chitotriosidase-1 measurement;platelet volume
+1:113881455:G:A	control	True	True	True	True	ACPA-positive rheumatoid arthritis, rheumatoid arthritis, rheumatoid factor seropositivity measurement;C-C motif chemokine 19 level;C-X-C motif chemokine 9 measurement;CD5 antigen-like measurement;Crohn disease
+1:983004:G:T	control	True	True	True	True	AGRN/B4GALT1 protein level ratio in blood;AGRN/BTN2A1 protein level ratio in blood;AGRN/CRIM1 protein level ratio in blood;AGRN/HSPG2 protein level ratio in blood;Ck-beta-8-1 measurement
+1:983004:G:T	control	True	True	True	True	AGRN/B4GALT1 protein level ratio in blood;AGRN/BTN2A1 protein level ratio in blood;AGRN/CRIM1 protein level ratio in blood;AGRN/HSPG2 protein level ratio in blood;Ck-beta-8-1 measurement
+9:21017744:C:T	control	False	False	True	True	body mass index;bone tissue density;cytokine measurement;urate measurement
+9:7164873:A:G	control	True	True	True	True	age at menarche;body height;complement factor D measurement;educational attainment;puberty onset measurement
+2:219556695:C:G	control	True	True	True	True	Left ventricular mass to end-diastolic volume ratio;PR interval;QRS duration;blood insulin amount;body height
+8:144792397:C:T	control	False	False	True	True	aspartate aminotransferase to alanine aminotransferase ratio;attention deficit-hyperactivity disorder, type 2 diabetes mellitus;body height;hematological measurement;serum alanine aminotransferase amount
+8:89903080:G:T	control	True	True	True	True	Crohn disease;diastolic blood pressure;fat pad mass;femoral neck bone mineral density, fat pad mass;gut microbiome measurement, allergen exposure measurement
+2:27090014:A:G	control	False	False	True	True	Alzheimer disease, family history of Alzheimer’s disease;C-reactive protein measurement;CGREF1/FAM3C protein level ratio in blood;IGF-1 measurement;amygdala volume
+1:166875885:C:G	control	False	False	True	True	amygdala volume;body height;hematological measurement;insomnia;leukocyte quantity
+1:179095990:C:T	control	False	False	True	True	Abelson tyrosine-protein kinase 2 measurement;Alzheimer disease, family history of Alzheimer’s disease;Crohn disease;body height;glycosaminoglycan xylosylkinase measurement
+7:97970523:C:T	control	False	False	True	False	X-25422 measurement;free cholesterol measurement
+7:97970523:C:T	control	False	False	True	False	X-25422 measurement;free cholesterol measurement
+6:44113981:G:A	control	False	False	True	True	Red cell distribution width;body height;cerebral cortex area attribute, neuroimaging measurement;congenital heart disease;coronary artery disorder
+14:95480491:T:C	control	False	False	True	True	PR interval;atrial fibrillation;body height;cup-to-disc ratio measurement;erythrocyte count
+12:46174105:C:G	control	False	False	True	True	anthropometric measurement;appendicular lean mass;birth weight;body height;bone tissue density
+19:52290008:G:A	control	False	False	True	True	body height;pyogenic granuloma
+15:28289538:G:A	control	True	True	True	True	Abnormality of skin pigmentation;actinic keratosis;age-related macular degeneration;body weight;coat/hair morphology trait, strand of hair color
+6:37695848:T:C	control	True	False	True	True	blood protein amount;chronotype measurement;daytime rest measurement;diet measurement;insomnia
+19:2902148:G:C	control	False	False	True	True	Ischemic stroke;collagen alpha-1(XXVIII) chain measurement;coronary artery disorder;myocardial infarction
+6:73722913:C:T	control	True	False	True	True	CD109 antigen measurement;CD109/CNTN4 protein level ratio in blood;angina pectoris;blood protein amount;bone tissue density
+16:10948537:G:A	control	False	False	True	True	BMI-adjusted hip circumference;HLA class II histocompatibility antigen gamma chain measurement;acne;age at onset, Myopia;atopic eczema
+14:51866493:C:T	control	False	False	True	False	BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio;body shape measurement;glioma pathogenesis-related protein 1 measurement;multiple sclerosis
+1:244353936:A:G	control	False	False	True	True	body height;dorea seropositivity;free cholesterol measurement;hematological measurement;monocyte count
+10:72073831:G:A	control	False	False	True	True	Back pain;Pain;aggrecan core protein measurement;aortic stenosis;blood protein amount
+18:63846741:T:A	control	False	False	True	False	level of serpin B8 in blood
+6:11516783:T:G	control	False	False	True	True	alcohol use disorder measurement;attention deficit-hyperactivity disorder, intelligence, autism spectrum disorder;cannabis dependence;cognitive function measurement;cognitive function measurement, self reported educational attainment
+3:67407153:G:T	control	True	False	True	True	3-methylglutarylcarnitine (2) measurement;beta-amyloid 1-42 measurement;body height;body shape measurement;carnitine measurement
+6:167983575:G:A	control	False	False	True	True	Red cell distribution width;adipose amount;body composition measurement;body height;brain attribute
+2:179251239:T:C	control	False	False	True	True	atrial fibrillation;level of SEC14 domain and spectrin repeat-containing protein 1 in blood
+16:2611496:G:C	control	False	False	True	True	HEPACAM family member 2 measurement;aspartate aminotransferase measurement;body height;gut microbiome measurement, allergen exposure measurement;level of glucosamine-6-phosphate isomerase 2 in blood
+16:2611496:G:C	control	False	False	True	True	HEPACAM family member 2 measurement;aspartate aminotransferase measurement;body height;gut microbiome measurement, allergen exposure measurement;level of glucosamine-6-phosphate isomerase 2 in blood
+11:65427784:G:A	control	True	True	True	True	Abnormality of the skeletal system;BMI-adjusted hip circumference;N6,N6,N6-trimethyllysine measurement;N6,N6-dimethyllysine measurement;alanine measurement
+5:43566828:G:A	control	False	False	True	True	Alzheimer disease, polygenic risk score;FEV/FVC ratio;Red cell distribution width;growth hormone receptor measurement;peak expiratory flow
+17:35537613:A:G	control	True	False	True	True	40S ribosomal protein S4, X isoform measurement;40s ribosomal protein S3 measurement;APEX1/SRP14 protein level ratio in blood;C-C motif chemokine 14 measurement;C-C motif chemokine 15 level
+17:15694183:G:A	control	False	False	True	True	ventricular septal defect
+8:11493711:A:C	control	True	True	True	True	ACPA-positive rheumatoid arthritis, rheumatoid arthritis, rheumatoid factor seropositivity measurement;BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio;C-reactive protein measurement;Fc receptor-like protein 2 measurement
+8:11493711:A:C	control	True	True	True	True	ACPA-positive rheumatoid arthritis, rheumatoid arthritis, rheumatoid factor seropositivity measurement;BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio;C-reactive protein measurement;Fc receptor-like protein 2 measurement
+22:50540091:C:T	control	True	False	True	True	2'-deoxyuridine measurement;3-ureidopropionate measurement;5,6-dihydrothymine measurement;5-methyluridine (ribothymidine) measurement;ANXA4/TYMP protein level ratio in blood
+6:32838799:C:T	control	True	True	True	True	BMI-adjusted hip circumference;BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio;CD27/TNFRSF13B protein level ratio in blood;Eczematoid dermatitis, allergic rhinitis
+22:42141217:C:T	control	True	False	True	True	alcohol use disorder measurement;aortic stenosis;attention deficit-hyperactivity disorder, bipolar disorder, schizophrenia, obsessive-compulsive disorder, autism spectrum disorder, Tourette syndrome, anorexia nervosa, major depressive disorder;bipolar disorder;body height
+15:67542218:T:C	control	False	False	True	True	body height;body mass index;cerebellar volume measurement;fat pad mass;insomnia measurement
+1:205823552:T:C	control	False	False	True	True	DNA topoisomerase 1 measurement;Parkinson disease;QT interval;Tinnitus;bilirubin measurement
+9:35133634:C:G	control	False	False	True	True	body height;erythrocyte volume;hematological measurement;mean corpuscular hemoglobin concentration;monocyte count
+5:134553551:C:A	control	True	False	True	True	BMI-adjusted hip circumference;DAPP1/ITGB1BP2 protein level ratio in blood;Drugs used in diabetes use measurement;FADD/PPP1R2 protein level ratio in blood;FOXO1/NUB1 protein level ratio in blood
+17:49218979:G:A	control	True	True	True	True	Abnormality of refraction;Abnormality of the skeletal system;Alzheimer disease;Alzheimer disease, polygenic risk score;BMI-adjusted waist circumference
+12:9731563:G:C	control	False	False	True	True	C-type lectin domain family 12 member A measurement;CD69/CDKN2D protein level ratio in blood;CD69/CEP43 protein level ratio in blood;CD69/CHMP1A protein level ratio in blood;CD69/CNST protein level ratio in blood
+20:284724:A:G	control	False	False	True	True	body height;severe acute respiratory syndrome, COVID-19;type 2 diabetes mellitus
+7:143736199:C:G	control	False	False	True	False	ephrin type-A receptor 1 amount
+7:143736199:C:G	control	False	False	True	False	ephrin type-A receptor 1 amount
+7:143736199:C:G	control	False	False	True	False	ephrin type-A receptor 1 amount
+21:37100405:A:G	control	False	False	True	True	body height;body shape measurement;eye color;health trait;level of tumor necrosis factor receptor superfamily member 10C in blood
+4:6673694:C:T	control	False	False	True	True	Abnormality of the integument;complement factor D measurement;epididymis-specific alpha-mannosidase measurement;glioma pathogenesis-related protein 1 measurement;level of protein S100-P in blood
+2:200877622:C:T	control	False	False	True	True	autoimmune thyroid disease;basal cell carcinoma;body height;cancer;caspase-10 measurement
+21:42467359:G:A	control	False	False	True	True	Graves disease;Thyroid preparation use measurement;ankylosing spondylitis, psoriasis, ulcerative colitis, Crohn disease, sclerosing cholangitis;anti-citrullinated protein antibody seropositivity, rheumatoid arthritis, rheumatoid factor seropositivity measurement;asthma
+11:59140950:G:A	control	False	False	True	True	body height;brain volume;heel bone mineral density;hypothyroidism;prostate carcinoma
+19:3098247:A:G	control	False	False	True	True	BMI-adjusted waist circumference;asthma;atopic asthma;calcium measurement;diastolic blood pressure
+1:16540981:C:A	control	False	False	True	True	body height;body mass index;ephrin type-A receptor 2 amount;health trait;immunoglobulin G4-related sclerosing disease
+21:33908879:G:A	control	True	False	True	True	COVID-19;age at menarche;blood urea nitrogen amount;body height;clonal hematopoiesis
+19:58315168:A:G	control	False	False	True	True	C-C motif chemokine 18 measurement;body height;cysteine-rich secretory protein 2 measurement;cysteine-rich secretory protein 3 measurement;educational attainment
+7:144261750:A:G	control	False	False	True	True	level of Rho guanine nucleotide exchange factor 5 in blood;ventricular septal defect
+11:321001:A:G	control	True	True	True	True	CMRF35-like molecule 1 measurement;FEV/FVC ratio;MANSC domain-containing protein 1 measurement;Thyroid preparation use measurement;alkaline phosphatase measurement
+6:26404466:C:T	control	True	True	True	True	BMI-adjusted hip circumference;BMI-adjusted waist circumference;BTN2A1/BTN3A2 protein level ratio in blood;BTN2A1/CSF1 protein level ratio in blood;BTN2A1/EPHA1 protein level ratio in blood
+17:58352403:G:A	control	True	True	True	True	Agents acting on the renin-angiotensin system use measurement;Alzheimer disease;Arthralgia, response to endocrine therapy;Iron deficiency anemia;MANSC domain-containing protein 1 measurement
+19:43731383:G:A	control	True	True	True	True	Alzheimer disease, polygenic risk score;Ly6/PLAUR domain-containing protein 3 measurement;Red cell distribution width;apolipoprotein B measurement;body height
+21:43026818:C:T	control	False	False	True	True	body mass index;cystathionine beta-synthase measurement;glycine measurement;gut microbiome measurement;homocysteine measurement
+16:66490671:C:G	control	False	False	True	False	Agouti-related protein measurement
+16:66490671:C:G	control	False	False	True	False	Agouti-related protein measurement
+1:39026790:C:T	control	False	False	True	True	aging;body mass index;eosinophil count;gut microbiome measurement, allergen exposure measurement;hematological measurement
+6:31572779:T:C	control	True	True	True	True	17-hydroxyprogesterone measurement;BMI-adjusted hip circumference;BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio;C-reactive protein measurement
+2:241814768:C:T	control	False	False	True	True	2-hydroxyglutarate measurement;Crohn disease;ankylosing spondylitis, psoriasis, ulcerative colitis, Crohn disease, sclerosing cholangitis;asthma;atopic asthma
+12:24957260:G:C	control	False	False	True	True	4-methyl-2-oxopentanoate measurement;cerebrospinal fluid composition attribute, 3-methyl-2-oxovalerate measurement;free cholesterol measurement;glioma pathogenesis-related protein 1 measurement;level of branched-chain-amino-acid aminotransferase, cytosolic in blood
+2:10448012:C:T	control	False	False	True	True	CASP3/HPCAL1 protein level ratio in blood;CDKN2D/HPCAL1 protein level ratio in blood;CHMP1A/HPCAL1 protein level ratio in blood;DAPP1/HPCAL1 protein level ratio in blood;DFFA/HPCAL1 protein level ratio in blood
+17:64897339:T:A	control	False	False	True	False	allergin-1 measurement;corpus callosum volume
+17:64897339:T:A	control	False	False	True	False	allergin-1 measurement;corpus callosum volume
+17:38261195:A:G	control	False	False	True	True	gastric ulcer, hemorrhage
+17:38261195:A:G	control	False	False	True	True	gastric ulcer, hemorrhage
+19:57736141:G:A	control	False	False	True	True	protein measurement
+7:102497524:C:T	control	False	False	True	True	body height;body shape measurement;breast cancer, chronotype measurement;chromosome, telomeric region length;chronotype measurement
+15:101392873:G:C	control	True	True	True	True	DAB2/NCK2 protein level ratio in blood;age at onset, coronary stenosis;apolipoprotein A 1 measurement;blood protein amount;body height
+2:43954295:G:A	control	False	False	True	True	Calcium channel blocker use measurement;Cholecystitis;alcohol consumption quality;alcohol use disorder measurement, longitudinal alcohol consumption measurement;cholelithiasis
+4:24889134:A:G	control	False	False	True	True	extracellular superoxide dismutase [Cu-Zn] measurement;level of extracellular superoxide dismutase [Cu-Zn] in blood
+19:54207390:G:T	control	True	True	True	True	1-arachidonoyl-GPI (20:4) measurement;1-arachidonoylglycerophosphoinositol measurement;1-linoleoyl-GPI (18:2) measurement;1-oleoyl-GPI (18:1) measurement;1-palmitoleoyl-GPI (16:1) measurement
+16:30130664:T:C	control	True	True	True	True	BIN2/CORO1A protein level ratio in blood;CORO1A/TBC1D5 protein level ratio in blood;DCTP pyrophosphatase 1 measurement;Diuretic use measurement;FEV/FVC ratio
+6:29871746:C:T	control	True	True	True	True	BMI-adjusted hip circumference;BMI-adjusted waist-hip ratio;CD160/NCR1 protein level ratio in blood;CD22/FCER2 protein level ratio in blood;CD4 molecule amount
+17:32519606:C:G	control	True	False	True	True	body height;bone tissue density;emphysema pattern measurement;lymphocyte count;lymphocyte percentage of leukocytes
+17:32519606:C:G	control	True	False	True	True	body height;bone tissue density;emphysema pattern measurement;lymphocyte count;lymphocyte percentage of leukocytes
+17:32519606:C:G	control	True	False	True	True	body height;bone tissue density;emphysema pattern measurement;lymphocyte count;lymphocyte percentage of leukocytes
+17:32519606:C:G	control	True	False	True	True	body height;bone tissue density;emphysema pattern measurement;lymphocyte count;lymphocyte percentage of leukocytes
+3:119395668:G:A	control	True	False	True	True	CD80 molecule level;Thyroid stimulating hormone level;autoimmune disease;body height;celiac disease
+12:69391206:A:T	control	False	False	True	True	BMI-adjusted hip circumference;BMI-adjusted waist circumference;C-reactive protein measurement;HDL particle size;Oral ulcer
+2:189732515:G:T	control	False	False	True	False	growth/differentiation factor 8 measurement;hematological measurement
+14:94342494:A:C	control	True	True	True	True	15-hydroxyprostaglandin dehydrogenase [NAD(+)] measurement;3-hydroxybutyrate measurement;39S ribosomal protein L33, mitochondrial measurement;40s ribosomal protein S3 measurement;AGRP/CCN1 protein level ratio in blood
+14:94342494:A:C	control	True	True	True	True	15-hydroxyprostaglandin dehydrogenase [NAD(+)] measurement;3-hydroxybutyrate measurement;39S ribosomal protein L33, mitochondrial measurement;40s ribosomal protein S3 measurement;AGRP/CCN1 protein level ratio in blood
+1:19710996:T:G	control	False	False	True	False	bipolar I disorder;chronotype measurement;circadian rhythm;diet measurement;educational attainment
+2:99459342:C:T	control	False	False	True	True	Uterine leiomyoma;body mass index;cognitive function measurement;educational attainment;hematological measurement
+3:33798622:T:C	control	True	False	True	True	BMI-adjusted waist-hip ratio;atherosclerosis;body height;brain attribute;level of sushi domain-containing protein 5 in blood
+1:9943262:G:A	control	True	False	True	True	bone tissue density;free cholesterol measurement;grip strength measurement;level of nicotinamide/nicotinic acid mononucleotide adenylyltransferase 1 in blood;retinoid-binding protein 7 measurement
+8:143614871:A:G	control	False	False	True	True	1-ribosyl-imidazoleacetate measurement;HEPACAM family member 2 measurement;Red cell distribution width;S-1-pyrroline-5-carboxylate measurement;X-11315 measurement
+2:87051986:C:T	control	False	False	False	False	
+11:65662465:T:C	control	True	False	True	True	Agents acting on the renin-angiotensin system use measurement;BMI-adjusted hip circumference;BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio;C-reactive protein measurement
+4:177435857:A:G	control	True	False	True	True	N-acetylglucosaminylasparagine measurement;asparagine measurement;aspartate measurement;blood protein amount;cerebrospinal fluid composition attribute, N-acetylglucosaminylasparagine measurement
+18:74511175:C:T	control	True	True	True	True	Abnormality of refraction;CNDP1/EGFR protein level ratio in blood;N-acetylserine measurement;beta-Ala-His dipeptidase measurement;blood protein amount
+19:18592267:T:C	control	True	True	True	True	Alzheimer disease, family history of Alzheimer’s disease;LCN2/PGLYRP1 protein level ratio in blood;Oral ulcer;PR interval;blood phosphate measurement
+22:21866877:A:G	control	True	True	True	True	age at menarche;body height;body mass index;erythrocyte count;hematological measurement
+12:8698552:C:A	control	True	False	True	True	C-type lectin domain family 4 member D measurement;C-type lectin domain family 6 member A measurement;body height;diastolic blood pressure;frailty measurement
+17:47102273:A:C	control	False	False	True	True	anthropometric measurement;aortic stenosis;atrial fibrillation;cardiovascular measurement;cholesteryl ester measurement, blood VLDL cholesterol amount
+1:205770138:C:T	control	True	True	True	True	DNA topoisomerase 1 measurement;FEV/FVC ratio, peptic ulcer disease;HbA1c measurement;IGF-1 measurement;JT interval
+16:536144:T:C	control	True	False	True	True	Anxiety;BMI-adjusted hip circumference;C-type lectin domain family 11 member A level;JT interval;QT interval
+19:55669366:T:C	control	True	False	True	True	body height;educational attainment;erythrocyte count;high density lipoprotein cholesterol measurement;information processing speed, cognitive function measurement, major depressive disorder
+3:184812202:C:G	control	False	False	True	True	body height;osteoarthritis
+9:137032610:A:G	control	True	True	True	True	E-selectin amount;GDNF family receptor alpha-2 measurement;NPDC1/TAFA5 protein level ratio in blood;aspartate aminotransferase measurement;blood protein amount
+9:137032610:A:G	control	True	True	True	True	E-selectin amount;GDNF family receptor alpha-2 measurement;NPDC1/TAFA5 protein level ratio in blood;aspartate aminotransferase measurement;blood protein amount
+2:86791329:A:G	control	True	False	True	True	blood protein amount;body height;erythrocyte volume;hypertrophic cardiomyopathy;leukocyte quantity
+14:77325176:A:G	control	True	True	True	True	blood protein amount;eosinophil count;erythrocyte count;level of maleylacetoacetate isomerase in blood serum;maleate measurement
+6:31053548:T:C	control	True	True	True	True	17-hydroxyprogesterone measurement;ADH4/KRT18 protein level ratio in blood;BMI-adjusted hip circumference;BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio
+11:695842:G:A	control	True	False	True	True	Alzheimer disease, family history of Alzheimer’s disease;BMI-adjusted waist-hip ratio;body height;cadherin-2 measurement;cadherin-related family member 5 measurement
+14:30570881:T:C	control	True	True	True	True	amyotrophic lateral sclerosis;anthropometric measurement;blood protein amount;body height;bone tissue density
+21:25638800:A:G	control	False	False	True	False	junctional adhesion molecule B measurement
+7:143747536:G:A	control	False	False	True	False	ephrin type-A receptor 1 amount
+8:22149780:A:G	control	False	False	True	True	CXCL17/SFTPA2 protein level ratio in blood;FEV/FVC ratio;Pain;amount of WAP four-disulfide core domain protein 12 (human) in blood;amount of collagen alpha-1(IV) chain (human) in blood
+1:89040247:C:T	control	True	False	True	True	anthropometric measurement;body height;glioma pathogenesis-related protein 1 measurement;hematological measurement;level of guanylate-binding protein 1 in blood serum
+8:1761427:C:G	control	False	False	True	True	diastolic blood pressure;diet measurement;information processing speed, cognitive function measurement, major depressive disorder;response to simvastatin, total cholesterol change measurement, response to fenofibrate;rho guanine nucleotide exchange factor 10 measurement
+12:123439832:T:C	control	False	False	True	True	Alzheimer disease, educational attainment;BMI-adjusted hip circumference;BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio;HDL particle size
+21:42476916:A:T	control	False	False	True	True	Graves disease;Thyroid preparation use measurement;ankylosing spondylitis, psoriasis, ulcerative colitis, Crohn disease, sclerosing cholangitis;anti-citrullinated protein antibody seropositivity, rheumatoid arthritis, rheumatoid factor seropositivity measurement;asthma
+21:42476916:A:T	control	False	False	True	True	Graves disease;Thyroid preparation use measurement;ankylosing spondylitis, psoriasis, ulcerative colitis, Crohn disease, sclerosing cholangitis;anti-citrullinated protein antibody seropositivity, rheumatoid arthritis, rheumatoid factor seropositivity measurement;asthma
+5:7894282:C:A	control	False	False	True	True	erythrocyte count;erythrocyte volume;mean corpuscular hemoglobin;memory performance;self reported educational attainment
+19:51629733:A:G	control	True	False	True	True	C-type lectin domain family 4 member D measurement;C-type lectin domain family 6 member A measurement;CLEC4D/HGF protein level ratio in blood;CLEC4D/LCN2 protein level ratio in blood;CLEC4D/MMP9 protein level ratio in blood
+19:51629733:A:G	control	True	False	True	True	C-type lectin domain family 4 member D measurement;C-type lectin domain family 6 member A measurement;CLEC4D/HGF protein level ratio in blood;CLEC4D/LCN2 protein level ratio in blood;CLEC4D/MMP9 protein level ratio in blood
+16:3076698:G:A	control	False	False	True	True	amount of tumor necrosis factor receptor superfamily member 12A (human) in blood;aspartate aminotransferase measurement;body height;body shape measurement;brain attribute
+19:51889897:G:A	control	False	False	True	False	amount of natural killer cells antigen CD94 (human) in blood;beta-1,4-galactosyltransferase 1 measurement;level of SPARC-related modular calcium-binding protein 2 in blood serum;level of sialic acid-binding Ig-like lectin 5 in blood serum;mannosyl-oligosaccharide 1,2-alpha-mannosidase IB measurement
+7:150408960:A:T	control	False	False	True	True	bone tissue density;chemerin measurement;diet measurement;digestive system disorder;educational attainment
+7:150408960:A:T	control	False	False	True	True	bone tissue density;chemerin measurement;diet measurement;digestive system disorder;educational attainment
+7:150408960:A:T	control	False	False	True	True	bone tissue density;chemerin measurement;diet measurement;digestive system disorder;educational attainment
+17:2814555:G:A	control	False	False	True	True	Alzheimer disease, family history of Alzheimer’s disease;FCER2/TCL1A protein level ratio in blood;FCRL1/TCL1A protein level ratio in blood;gut microbiome measurement, tobacco smoke exposure measurement;hematological measurement
+7:73005360:C:A	control	False	False	False	False	
+7:73005360:C:A	control	False	False	False	False	
+2:240621671:G:T	control	True	False	True	True	CLPS/CTRB1 protein level ratio in blood;CTRB1/PLA2G1B protein level ratio in blood;Crohn disease;ankylosing spondylitis;ankylosing spondylitis, psoriasis, ulcerative colitis, Crohn disease, sclerosing cholangitis
+2:240621671:G:T	control	True	False	True	True	CLPS/CTRB1 protein level ratio in blood;CTRB1/PLA2G1B protein level ratio in blood;Crohn disease;ankylosing spondylitis;ankylosing spondylitis, psoriasis, ulcerative colitis, Crohn disease, sclerosing cholangitis
+5:1104823:C:T	control	True	True	True	True	HbA1c measurement;JT interval;PR interval;QT interval;Red cell distribution width
+14:23103494:C:T	control	False	False	True	True	B-cell acute lymphoblastic leukemia;C-type lectin domain family 6 member A measurement;Red cell distribution width;acute lymphoblastic leukemia;adolescent idiopathic scoliosis
+7:141698907:A:G	control	True	False	True	True	C-type lectin domain family 5 member A measurement;blood protein amount;glioma pathogenesis-related protein 1 measurement;mitochondrial heteroplasmy measurement;sensory perception of bitter taste
+7:141698907:A:G	control	True	False	True	True	C-type lectin domain family 5 member A measurement;blood protein amount;glioma pathogenesis-related protein 1 measurement;mitochondrial heteroplasmy measurement;sensory perception of bitter taste
+20:64017619:A:G	control	False	False	True	True	Abnormality of the skeletal system;BMI-adjusted hip circumference;BMI-adjusted waist-hip ratio;BMI-adjusted waist-hip ratio, ovarian cancer;IGF-1 measurement
+20:64017619:A:G	control	False	False	True	True	Abnormality of the skeletal system;BMI-adjusted hip circumference;BMI-adjusted waist-hip ratio;BMI-adjusted waist-hip ratio, ovarian cancer;IGF-1 measurement
+20:64017619:A:G	control	False	False	True	True	Abnormality of the skeletal system;BMI-adjusted hip circumference;BMI-adjusted waist-hip ratio;BMI-adjusted waist-hip ratio, ovarian cancer;IGF-1 measurement
+20:64017619:A:G	control	False	False	True	True	Abnormality of the skeletal system;BMI-adjusted hip circumference;BMI-adjusted waist-hip ratio;BMI-adjusted waist-hip ratio, ovarian cancer;IGF-1 measurement
+6:3138265:A:G	control	True	False	True	True	Red cell distribution width;X-17676 measurement;handedness;hematological measurement;level of proteasome assembly chaperone 4 in blood serum
+11:18537327:T:A	control	False	False	True	False	glioma pathogenesis-related protein 1 measurement;level of primate-type serum amyloid A-4 protein in blood;level of vacuolar protein sorting-associated protein 28 in blood;tumor susceptibility gene 101 protein measurement
+11:104898182:T:C	control	False	False	True	False	free cholesterol measurement;matrix metalloproteinase 12 measurement
+4:7754124:G:A	control	True	True	True	True	blood protein amount;body height;bone tissue density;brain cancer;glioma pathogenesis-related protein 1 measurement
+6:24417681:T:C	control	True	True	True	True	RAC-beta serine/threonine-protein kinase measurement;alkaline phosphatase measurement;alkaline phosphatase measurement, enzyme/coenzyme activity trait;alpha-2-macroglobulin receptor-associated protein measurement;body mass index
+1:106996359:C:T	control	False	False	True	True	Red cell distribution width;body mass index;body shape measurement;cervical carcinoma, exocrine pancreatic carcinoma, prostate carcinoma, hepatocellular carcinoma, non-Hodgkin lymphoma, biliary tract cancer, ovarian cancer, lung cancer, breast carcinoma, colorectal cancer, esophageal cancer, endometrial cancer, gastric cancer;cystatin C measurement
+1:106996359:C:T	control	False	False	True	True	Red cell distribution width;body mass index;body shape measurement;cervical carcinoma, exocrine pancreatic carcinoma, prostate carcinoma, hepatocellular carcinoma, non-Hodgkin lymphoma, biliary tract cancer, ovarian cancer, lung cancer, breast carcinoma, colorectal cancer, esophageal cancer, endometrial cancer, gastric cancer;cystatin C measurement
+9:129580959:C:G	control	False	False	True	True	surgical resection
+21:46168732:G:A	control	False	False	True	True	BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio;CCN3/COL6A3 protein level ratio in blood;COL6A3/COLEC12 protein level ratio in blood;COL6A3/CST3 protein level ratio in blood
+14:103583456:T:C	control	True	False	True	True	Alzheimer disease, family history of Alzheimer’s disease;amino acid measurement;attention deficit-hyperactivity disorder, bipolar disorder, schizophrenia, autism spectrum disorder, major depressive disorder;attention deficit-hyperactivity disorder, bipolar disorder, schizophrenia, obsessive-compulsive disorder, autism spectrum disorder, Tourette syndrome, anorexia nervosa, major depressive disorder;attention deficit-hyperactivity disorder, intelligence, autism spectrum disorder
+8:28428554:T:C	control	False	False	True	False	brain attribute;brain connectivity attribute;cerebral cortex area attribute
+6:116369686:C:T	control	True	True	True	True	BMI-adjusted hip circumference;FCER2/TNFRSF9 protein level ratio in blood;alcohol dependence measurement, electroencephalogram measurement;body height;body shape measurement
+10:3105309:C:T	control	False	False	True	True	ATP measurement;D-Glucose measurement;HbA1c measurement;SPARC measurement;airway imaging measurement
+12:95003776:T:C	control	False	False	True	True	angina pectoris;coronary artery disorder;hematological measurement;level of period circadian protein homolog 3 in blood;platelet count
+16:84766879:T:C	control	False	False	True	True	BMI-adjusted waist circumference;appendicular lean mass;body height;body shape measurement;cysteine-rich secretory protein LCCL domain-containing 2 measurement
+19:17281820:G:A	control	True	True	True	True	COVID-19;HbA1c measurement;atrial fibrillation;basal cell carcinoma;body fat percentage
+1:30757821:C:T	control	True	True	True	True	anthropometric measurement;blood protein amount;body height;body shape measurement;eosinophil count
+1:30757821:C:T	control	True	True	True	True	anthropometric measurement;blood protein amount;body height;body shape measurement;eosinophil count
+21:29073627:G:A	control	False	False	True	True	aspartate aminotransferase to alanine aminotransferase ratio;body height;body mass index;body weight;diastolic blood pressure, systolic blood pressure
+7:72829753:A:G	control	False	False	True	True	body height;fatty acid amount;fatty acid amount, omega-6 polyunsaturated fatty acid measurement;glycoprotein measurement;hematological measurement
+13:113822965:C:G	control	True	True	True	True	AXL/GAS6 protein level ratio in blood;AXL/IL18BP protein level ratio in blood;Alzheimer disease, family history of Alzheimer’s disease;GAS6/NOTCH1 protein level ratio in blood;HMG CoA reductase inhibitor use measurement
+7:136003032:G:A	control	False	False	True	True	hematological measurement;platelet count;platelet volume
+8:26388142:G:A	control	True	False	True	True	BCL2/adenovirus E1B 19 kDa protein-interacting protein 3-like measurement;BMI-adjusted waist circumference;HbA1c measurement;Red cell distribution width;abdominal adipose tissue measurement
+10:78210343:T:C	control	False	False	True	True	body height;glioma pathogenesis-related protein 1 measurement;gut microbiome measurement, allergen exposure measurement;health trait;leukocyte quantity
+4:26865141:C:T	control	False	False	True	True	Varicose veins;body mass index;body weight;calcium measurement
+1:59020151:C:T	control	False	False	True	True	acute graft vs. host disease;gut microbiome measurement, allergen exposure measurement;hematological measurement;leukocyte quantity;lymphocyte count
+7:101126257:A:G	control	True	True	True	True	ANGPT1/SERPINE1 protein level ratio in blood;Abnormality of the skeletal system;CD40LG/SERPINE1 protein level ratio in blood;DKK1/SERPINE1 protein level ratio in blood;Ischemic stroke, plasminogen activator inhibitor 1 measurement
+9:112031328:T:A	control	False	False	True	True	Graves disease;Red cell distribution width;amount of sushi domain-containing protein 1 (human) in blood;body height;brain aneurysm
+3:44590720:G:T	control	False	False	True	False	C-C motif chemokine 4 level;body mass index;major depressive disorder
+4:121696338:T:C	control	True	False	True	True	BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio;BMI-adjusted waist-hip ratio, colorectal cancer;Thyroid stimulating hormone level;abdominal adipose tissue measurement
+9:137461922:C:A	control	False	False	True	True	1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1) measurement;fatty acid amount;hip bone mineral density, hip bone size;hip bone size;pneumonia
+4:77800348:T:A	control	False	False	True	True	brain volume;dementia, Parkinson disease;free cholesterol measurement
+2:73958749:A:T	control	False	False	True	True	JT interval;N-delta-acetylornithine measurement;QT interval;alcohol consumption quality;body height
+5:179700918:A:G	control	False	False	True	True	Alzheimer disease, family history of Alzheimer’s disease;blood protein amount;body height;diastolic blood pressure, systolic blood pressure;heart rate
+14:105744489:C:T	control	True	True	True	True	AQP4-IgG-positive neuromyelitis optica;Alzheimer disease;C-type lectin domain family 4 member E measurement;CD5 antigen-like measurement;Fc receptor-like protein 2 measurement
+2:202264093:T:G	control	True	False	True	True	C-reactive protein measurement;alkaline phosphatase measurement;apolipoprotein B measurement;aspartate aminotransferase measurement;body height
+1:212699211:T:C	control	True	True	True	True	Eczematoid dermatitis;Eczematoid dermatitis, allergic rhinitis;age of onset of childhood onset asthma;asthma;atopic eczema
+15:40323470:T:C	control	True	True	True	True	BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio;Drugs used in diabetes use measurement;HbA1c measurement;Ischemic stroke
+5:96916728:G:A	control	True	True	True	True	BTN2A1/CSF1 protein level ratio in blood;Crohn disease;ESAM/TGFB1 protein level ratio in blood;Epstein-Barr virus infection;TGF-beta 1 level
+1:172533200:T:C	control	False	False	True	True	N-acylethanolamine-hydrolyzing acid amidase measurement;blood protein amount;body height;bone tissue density;coagulation factor V amount
+6:7307584:C:T	control	True	False	True	True	BMI-adjusted hip circumference;BMI-adjusted waist-hip ratio;IGF-1 measurement;VLDL particle size;body height
+12:123467485:A:T	control	False	False	True	True	BMI-adjusted hip circumference;BMI-adjusted waist circumference;BMI-adjusted waist-hip ratio;HDL particle size;Parkinson disease
+16:1777521:T:G	control	True	True	True	True	ARG1/HAGH protein level ratio in blood;BLVRB/HAGH protein level ratio in blood;C-reactive protein measurement;CA2/HAGH protein level ratio in blood;HAGH/HMBS protein level ratio in blood
+1:180269145:G:T	control	False	False	True	True	body height;gut microbiome measurement, environmental exposure measurement;sulfhydryl oxidase 1 measurement;torsin-1A-interacting protein 1 measurement
+17:78474987:G:C	control	False	False	True	True	BMI-adjusted waist circumference;C-reactive protein measurement;Parkinson disease;abdominal adipose tissue measurement;body height
+13:95643377:T:A	control	False	False	True	True	alkaline phosphatase measurement;glomerular filtration rate;gut microbiome measurement, tobacco smoke exposure measurement;male infertility;systolic blood pressure
+2:61177796:A:T	control	True	False	True	True	Crohn disease;aspartate aminotransferase measurement;atrial fibrillation;autoimmune thyroid disease;basophil measurement
+7:30796263:A:G	control	False	False	True	True	educational attainment;gut microbiome measurement, breastfeeding duration;heel bone mineral density, urate measurement;milk amount
+17:19362283:C:T	control	False	False	True	True	aging rate;brain physiology trait;carnitine measurement;cortical thickness;diastolic blood pressure
+7:102461517:T:C	control	True	True	True	True	body height;body shape measurement;breast cancer, chronotype measurement;chromosome, telomeric region length;chronotype measurement
+12:4909703:T:C	control	False	False	True	True	PCSK9 protein measurement;body height;gut microbiome measurement, allergen exposure measurement;heart failure
+12:92432904:G:A	control	False	False	True	True	gut microbiome measurement, allergen exposure measurement;hematological measurement;low density lipoprotein cholesterol measurement;total cholesterol measurement
+1:19311815:A:G	control	True	True	True	True	Thyroid preparation use measurement;X-24462 measurement;aflatoxin B1 aldehyde reductase member 2 measurement;aging;alkaline phosphatase measurement
+6:31353461:G:C	control	True	True	True	True	1-(1-enyl-stearoyl)-2-arachidonoyl-GPC (P-18:0/20:4) measurement;17-hydroxyprogesterone measurement;ACVRL1/TNFRSF9 protein level ratio in blood;Antithrombotic agent use measurement;B-cell receptor CD22 level
+10:22531603:C:A	control	False	False	True	True	Alzheimer disease, polygenic risk score;B-cell acute lymphoblastic leukemia;B-cell acute lymphoblastic leukemia, rheumatoid arthritis;IGF-1 measurement;Thyroid stimulating hormone level
+16:58227718:C:A	control	False	False	True	True	body height;corneodesmosin measurement;gut microbiome measurement, allergen exposure measurement;level of phosphatidylethanolamine;primary biliary cholangitis
+19:52016355:C:T	control	False	False	True	False	diet measurement;information processing speed, cognitive function measurement, major depressive disorder;level of sialic acid-binding Ig-like lectin 5 in blood serum
+22:40860798:A:G	control	True	False	True	True	C-reactive protein measurement;anthropometric measurement;apolipoprotein B measurement;bipolar disorder;body shape measurement
+3:132722795:G:C	control	False	False	True	True	C-C motif chemokine 19 level;C-C motif chemokine 21 measurement;C-C motif chemokine 25 measurement;X-18899 measurement;adipose amount
+6:7542670:C:G	control	False	False	True	True	FEV/FVC ratio;PR interval;QRS amplitude, QRS complex;QRS complex;QRS-T angle
+19:53197554:T:C	control	False	False	True	True	protein measurement;severe acute respiratory syndrome, COVID-19

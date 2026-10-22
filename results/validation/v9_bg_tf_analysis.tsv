@@ -1,0 +1,2 @@
+n_adqtl_with_tf	n_ctrl_with_tf	median_bg_chip_tf_adqtl	median_bg_chip_tf_ctrl	mwu_p_chip_tf	median_bg_atac_adqtl	median_bg_atac_ctrl	mwu_p_atac	spearman_bg_tf_vs_int_beta	spearman_p_bg_tf_vs_int_beta
+75	4	0.1408	0.0983	0.6628029748802605	0.0752	0.103	0.762744790717165	0.113	0.33642559206279576

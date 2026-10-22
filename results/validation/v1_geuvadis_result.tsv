@@ -1,0 +1,2 @@
+n_adqtl_EUR_matched	n_ctrl_EUR_matched	n_adqtl_YRI_also	n_ctrl_YRI_also	EUR_concordance_adqtl_pct	EUR_concordance_ctrl_pct	EUR_binom_p_adqtl	EUR_binom_p_ctrl	spearman_rho_adqtl	spearman_p_adqtl	spearman_rho_ctrl	spearman_p_ctrl	EY_concordance_adqtl_pct	EY_concordance_ctrl_pct	EY_binom_p_adqtl
+70	54	11	11	97.1	100.0	2.1057239068741906e-18	5.551115123125783e-17	0.208	0.08407338261262573	-0.242	0.0782898019649329	81.8	63.6	0.03271484375

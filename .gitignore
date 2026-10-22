@@ -1,0 +1,29 @@
+# secrets
+.env
+
+# inputs (download per README); keep the three small Geuvadis sample lists
+data/*
+!data/raw/
+data/raw/*
+!data/raw/Geuvadis/
+data/raw/Geuvadis/*
+!data/raw/Geuvadis/geuv_eur_indep.txt
+!data/raw/Geuvadis/geuv_yri_indep.txt
+!data/raw/Geuvadis/geuv_sex.txt
+
+# generated outputs
+figures/
+logs/
+docs/*
+!docs/.gitkeep
+results/**/*_ckpt.tsv
+results/**/*.pkl
+results/phase2/p2_regional_eqtl/
+results/phase2/p2_panukb/
+results/phase0/archive_*/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

@@ -1,0 +1,2 @@
+n_signflip	k_signflip	pct_signflip	n_samesign	k_samesign	pct_samesign	n_ctrl	k_ctrl	pct_ctrl	OR_flip_vs_same	p_flip_vs_same	OR_flip_vs_ctrl	p_flip_vs_ctrl	OR_same_vs_ctrl	p_same_vs_ctrl	median_absDelta_flip	median_absDelta_same	MWU_p_delta
+48	27	56.2	148	79	53.4	243	36	14.8	1.12	0.4294368203093225	7.39	5.691152040890351e-09	6.58	7.988259868474289e-16	0.524	0.401	1.9321446334075934e-05
