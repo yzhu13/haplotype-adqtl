@@ -1,0 +1,10 @@
+{
+  "title": "haplotype-adqtl: analysis pipeline for cis-haplotype epistasis and ancestry-differential eQTL effects",
+  "description": "Analysis code and summary-level result tables for the manuscript \"Population differences in regulatory haplotype backgrounds explain ancestry-differential eQTL effects\". The pipeline identifies ancestry-differential eQTLs in MAGE lymphoblastoid cell lines, tests focal × background cis-haplotype interactions, runs generative simulations, computes haplotype context divergence, and replicates results in Geuvadis.",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {"name": "Zhu, Yan", "affiliation": "University of Pennsylvania"}
+  ],
+  "keywords": ["eQTL", "epistasis", "haplotype", "ancestry", "population genetics", "polygenic scores"]
+}

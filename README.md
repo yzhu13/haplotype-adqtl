@@ -158,7 +158,7 @@ using the mapping in `scripts/lib_figure_io.py`.
 
 | Figure | Script |
 |---|---|
-| Figure 1 (study design) | `make_figure1_study_design.py` |
+| Figure 1 (study design) | `make_figure1_gb.py` (writes `figures/regenerated/make_figure1_gb/Fig1.pdf`) |
 | Figure 2 (adQTL atlas) | `make_paper_figures.py` |
 | Figure 3 (cis-haplotype epistasis) | `make_updated_figures.py` (based on `p1_10_figure_cis_epistasis.py`) |
 | Figure 4 (generative simulation) | `p1_19_figure_simulation.py` |
